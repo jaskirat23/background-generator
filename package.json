@@ -4,7 +4,7 @@
   "description": "Background Generator Exercise from the Udemy course by Andrei Neagoie (https://www.udemy.com/the-complete-web-developer-zero-to-mastery)",
   "main": "script.js",
   "scripts": {
-    "build": "browserify script,js>bundle.js && live-server"
+    "build": "browserify script.js>bundle.js && live-server"
   },
   "repository": {
     "type": "git",
